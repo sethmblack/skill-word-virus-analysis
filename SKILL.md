@@ -4,7 +4,7 @@ description: A skill for identifying how language programs consciousness and ser
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5327
+  version: 1.0.5328
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - word-virus-analysis
