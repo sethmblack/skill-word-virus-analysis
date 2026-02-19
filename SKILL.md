@@ -3,8 +3,9 @@ name: word-virus-analysis
 description: A skill for identifying how language programs consciousness and serves control - treating words as parasitic organisms that shape what we can think.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5327
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - word-virus-analysis
 - writing
